@@ -1,0 +1,6 @@
+﻿  B.cpp
+d:\algorithms ans data structures\b\b\b.cpp(50): warning C4018: >=: несоответствие типов со знаком и без знака
+d:\algorithms ans data structures\b\b\b.cpp(73): warning C4018: <: несоответствие типов со знаком и без знака
+d:\algorithms ans data structures\b\b\b.cpp(81): warning C4018: <: несоответствие типов со знаком и без знака
+d:\algorithms ans data structures\b\b\b.cpp(100): warning C4018: <: несоответствие типов со знаком и без знака
+  B.vcxproj -> D:\Algorithms ans data structures\B\Debug\B.exe

@@ -1,0 +1,5 @@
+﻿  1806.cpp
+d:\algorithms ans data structures\1806\1806\1806.cpp(29): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+d:\algorithms ans data structures\1806\1806\1806.cpp(41): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+d:\algorithms ans data structures\1806\1806\1806.cpp(43): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+  1806.vcxproj -> D:\Algorithms ans data structures\1806\Debug\1806.exe
